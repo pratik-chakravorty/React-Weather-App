@@ -5,7 +5,7 @@ var React = require('react');
 var About = (props) => {
 	return (
 			<div>
-				<h3 class="text-center">About</h3>
+				<h1 className="text-center">About</h1>
 				<p>This is a weather application that I made to learn and understand React</p>
 				<p><a href='https://facebook.github.io/react' target='_blank'>React</a> is a front-end library made by Facebook for creating
 				user-interfaces.
